@@ -1,0 +1,10 @@
+Nith,SN,Bangalore,9663150082,nith.sn@gmail.com,123,0.00
+James,Maddison,LCity,9836613123,jmaddison@gmail.com,mad,0.00
+Daniel,James,Nottingham,9876543210,daniel.james@hotmail.com,james,912.93
+Albert,James,London,9876543210,albert.james@gmail.com,james,0.00
+Ben,Bohmer,Berlin,7765678765,benbohmer2@gmail.com,ben,0.00
+Lane,Eight,New York,9786712341,lane8@gmail.com,eight,50.00
+Above,Beyond,London,9102837465,aboveandbeyond@gmail.com,a&b,0.00
+Cristiano,Ronaldo,Riyadh,9988776655,cronaldo7@ronaldo.com,cr7,50.00
+Nithyanand,S N,Notts,7767953907,nithyu.123@gmail.com,nith,220.617
+Raj,Sharma,Mumbai,987654310,rajsharma@gmail.com,raj,89.40

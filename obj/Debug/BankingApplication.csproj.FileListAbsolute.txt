@@ -1,0 +1,8 @@
+D:\Users\Nityanand\source\repos\BankingApplication\BankingApplication\bin\Debug\BankingApplication.exe.config
+D:\Users\Nityanand\source\repos\BankingApplication\BankingApplication\bin\Debug\BankingApplication.exe
+D:\Users\Nityanand\source\repos\BankingApplication\BankingApplication\bin\Debug\BankingApplication.pdb
+D:\Users\Nityanand\source\repos\BankingApplication\BankingApplication\obj\Debug\BankingApplication.csproj.AssemblyReference.cache
+D:\Users\Nityanand\source\repos\BankingApplication\BankingApplication\obj\Debug\BankingApplication.csproj.SuggestedBindingRedirects.cache
+D:\Users\Nityanand\source\repos\BankingApplication\BankingApplication\obj\Debug\BankingApplication.csproj.CoreCompileInputs.cache
+D:\Users\Nityanand\source\repos\BankingApplication\BankingApplication\obj\Debug\BankingApplication.exe
+D:\Users\Nityanand\source\repos\BankingApplication\BankingApplication\obj\Debug\BankingApplication.pdb
